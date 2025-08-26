@@ -1,0 +1,13 @@
+recipe_id,recipe,ingredients,nb_ingredients,preparation_time_min,country,year,category,source
+1,Ratatouille,eggplant; zucchini; bell pepper; tomato; onion; garlic; olive oil; herbs,8,60,France,1985,main,family notebook (fictitious)
+2,Sweet crêpes,flour; milk; egg; sugar; butter; salt,6,25,France,1992,dessert,family notebook (fictitious)
+3,Quiche lorraine,shortcrust pastry; bacon; egg; cream; milk; cheese; pepper,7,45,France,1978,main,family notebook (fictitious)
+4,Gazpacho,tomato; cucumber; bell pepper; onion; garlic; bread; vinegar; olive oil; salt,9,20,Spain,2001,starter,family notebook (fictitious)
+5,Tortilla,egg; potato; onion; olive oil; salt,5,30,Spain,1995,main,family notebook (fictitious)
+6,Pan con tomate,bread; tomato; garlic; olive oil; salt,5,10,Spain,2010,starter,family notebook (fictitious)
+7,Pesto pasta,pasta; basil; pine nuts; parmesan; garlic; olive oil; salt,7,18,Italy,2003,main,family notebook (fictitious)
+8,Mushroom risotto,arborio rice; mushroom; stock; parmesan; onion; butter; white wine; olive oil,8,35,Italy,1999,main,family notebook (fictitious)
+9,Tiramisu,mascarpone; egg; sugar; coffee; biscuit; cocoa,6,30,Italy,1988,dessert,family notebook (fictitious)
+10,Niçoise salad,tomato; green beans; egg; tuna; olives; onion; olive oil; vinegar; salt,9,20,France,1975,starter,family notebook (fictitious)
+11,Patatas bravas,potato; olive oil; salt; tomato sauce; paprika,5,35,Spain,2007,main,family notebook (fictitious)
+12,Bruschetta,bread; tomato; garlic; basil; olive oil; salt,6,12,Italy,2012,starter,family notebook (fictitious)

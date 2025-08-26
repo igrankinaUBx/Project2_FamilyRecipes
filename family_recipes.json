@@ -1,0 +1,134 @@
+[
+  {
+    "recipe_id":1,
+    "recipe":"Ratatouille",
+    "ingredients":"eggplant; zucchini; bell pepper; tomato; onion; garlic; olive oil; herbs",
+    "nb_ingredients":8,
+    "preparation_time_min":60,
+    "country":"France",
+    "year":1985,
+    "category":"main",
+    "source":"family notebook (fictitious)"
+  },
+  {
+    "recipe_id":2,
+    "recipe":"Sweet cr\u00eapes",
+    "ingredients":"flour; milk; egg; sugar; butter; salt",
+    "nb_ingredients":6,
+    "preparation_time_min":25,
+    "country":"France",
+    "year":1992,
+    "category":"dessert",
+    "source":"family notebook (fictitious)"
+  },
+  {
+    "recipe_id":3,
+    "recipe":"Quiche lorraine",
+    "ingredients":"shortcrust pastry; bacon; egg; cream; milk; cheese; pepper",
+    "nb_ingredients":7,
+    "preparation_time_min":45,
+    "country":"France",
+    "year":1978,
+    "category":"main",
+    "source":"family notebook (fictitious)"
+  },
+  {
+    "recipe_id":4,
+    "recipe":"Gazpacho",
+    "ingredients":"tomato; cucumber; bell pepper; onion; garlic; bread; vinegar; olive oil; salt",
+    "nb_ingredients":9,
+    "preparation_time_min":20,
+    "country":"Spain",
+    "year":2001,
+    "category":"starter",
+    "source":"family notebook (fictitious)"
+  },
+  {
+    "recipe_id":5,
+    "recipe":"Tortilla",
+    "ingredients":"egg; potato; onion; olive oil; salt",
+    "nb_ingredients":5,
+    "preparation_time_min":30,
+    "country":"Spain",
+    "year":1995,
+    "category":"main",
+    "source":"family notebook (fictitious)"
+  },
+  {
+    "recipe_id":6,
+    "recipe":"Pan con tomate",
+    "ingredients":"bread; tomato; garlic; olive oil; salt",
+    "nb_ingredients":5,
+    "preparation_time_min":10,
+    "country":"Spain",
+    "year":2010,
+    "category":"starter",
+    "source":"family notebook (fictitious)"
+  },
+  {
+    "recipe_id":7,
+    "recipe":"Pesto pasta",
+    "ingredients":"pasta; basil; pine nuts; parmesan; garlic; olive oil; salt",
+    "nb_ingredients":7,
+    "preparation_time_min":18,
+    "country":"Italy",
+    "year":2003,
+    "category":"main",
+    "source":"family notebook (fictitious)"
+  },
+  {
+    "recipe_id":8,
+    "recipe":"Mushroom risotto",
+    "ingredients":"arborio rice; mushroom; stock; parmesan; onion; butter; white wine; olive oil",
+    "nb_ingredients":8,
+    "preparation_time_min":35,
+    "country":"Italy",
+    "year":1999,
+    "category":"main",
+    "source":"family notebook (fictitious)"
+  },
+  {
+    "recipe_id":9,
+    "recipe":"Tiramisu",
+    "ingredients":"mascarpone; egg; sugar; coffee; biscuit; cocoa",
+    "nb_ingredients":6,
+    "preparation_time_min":30,
+    "country":"Italy",
+    "year":1988,
+    "category":"dessert",
+    "source":"family notebook (fictitious)"
+  },
+  {
+    "recipe_id":10,
+    "recipe":"Ni\u00e7oise salad",
+    "ingredients":"tomato; green beans; egg; tuna; olives; onion; olive oil; vinegar; salt",
+    "nb_ingredients":9,
+    "preparation_time_min":20,
+    "country":"France",
+    "year":1975,
+    "category":"starter",
+    "source":"family notebook (fictitious)"
+  },
+  {
+    "recipe_id":11,
+    "recipe":"Patatas bravas",
+    "ingredients":"potato; olive oil; salt; tomato sauce; paprika",
+    "nb_ingredients":5,
+    "preparation_time_min":35,
+    "country":"Spain",
+    "year":2007,
+    "category":"main",
+    "source":"family notebook (fictitious)"
+  },
+  {
+    "recipe_id":12,
+    "recipe":"Bruschetta",
+    "ingredients":"bread; tomato; garlic; basil; olive oil; salt",
+    "nb_ingredients":6,
+    "preparation_time_min":12,
+    "country":"Italy",
+    "year":2012,
+    "category":"starter",
+    "source":"family notebook (fictitious)"
+  }
+]
